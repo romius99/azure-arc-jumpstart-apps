@@ -18,4 +18,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Welcome to Azure Arc GitOps Demo by Denis Romashenko!
+      value: Welcome to Azure Arc GitOps Demo by Denis Version 1.!
